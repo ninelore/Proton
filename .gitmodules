@@ -1,9 +1,9 @@
 [submodule "wine"]
-	path = wine
-	url = https://github.com/wine-mirror/wine
+    path = wine
+    url = https://github.com/ValveSoftware/wine
 [submodule "dxvk"]
 	path = dxvk
-	url = https://github.com/doitsujin/dxvk
+	url = https://github.com/ValveSoftware/dxvk
 [submodule "openvr"]
 	path = openvr
 	url = https://github.com/ValveSoftware/openvr
