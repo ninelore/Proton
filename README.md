@@ -35,7 +35,7 @@ switching branches.
 
 You can clone the latest Proton to your system with this command:
 
-        git clone --recurse-submodules https://github.com/ValveSoftware/Proton.git proton
+        git clone --recurse-submodules https://github.com/ninelore/Proton.git proton
         cd proton
 
 If you wish to change any subcomponent, now is the time to do so.
